@@ -1,6 +1,6 @@
 ---
 title: "DSS Computing Bootcamp Template"
-author: "Zach  White"
+author: "Zach White"
 date: "8/21/2015"
 output: html_document
 ---
